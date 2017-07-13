@@ -1,3 +1,3 @@
 # Dply
 
-[Dugong][![Dply](https://dply.co/b.svg)](https://dply.co/b/Z9RSMBAE) 
+[![Dply](https://dply.co/b.svg)](https://dply.co/b/RR0Mp5Du)
