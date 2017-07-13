@@ -16,8 +16,11 @@ apt_update: true
 packages:
   - docker-ce
 
-- name: add user to docker group
-      user:
-        name: $USER
-        groups: docker
-        append: yes
+name: add user to docker group
+user:
+  name: $USER
+  groups: docker
+  append: yes
+        
+start_docker:
+  - sudo systemctl enable docker
