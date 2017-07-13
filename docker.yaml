@@ -1,0 +1,23 @@
+apt_update: true
+packages:
+  - apt-transport-https
+  - ca-certificates
+  - curl
+  - software-properties-common
+
+before_install:
+  - curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+  - sudo add-apt-repository \
+   "deb [arch=amd64] https://download.docker.com/linux/ubuntu \
+   $(lsb_release -cs) \
+   stable"
+   
+apt_update: true
+packages:
+  - docker-ce
+
+- name: add user to docker group
+      user:
+        name: $USER
+        groups: docker
+        append: yes
