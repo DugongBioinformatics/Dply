@@ -1,4 +1,4 @@
-# Dply
+# DUGONG DEMO
 
 ## DugongGUI XFCE4:
 
