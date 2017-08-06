@@ -10,6 +10,11 @@
 
 ## DugongCMD:
 
+![Dply](https://raw.githubusercontent.com/DugongBioinformatics/Dply/master/.misc/Screenshot%20from%202017-08-06%2017-41-55.png)
+
+![Dply](https://raw.githubusercontent.com/DugongBioinformatics/Dply/master/.misc/Screenshot%20from%202017-08-06%2017-41-41.png)
+
+
 - Ubuntu 16.04
 
 [![Dply](https://dply.co/b.svg)](https://dply.co/b/UUwUvOO8) 
