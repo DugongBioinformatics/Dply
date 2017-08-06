@@ -14,6 +14,8 @@ We currently offer the following operating systems: CentOS 6, CentOS 7, Debian 7
 
 For more information on how to use this service and how to create and connect to your newly created server, go to: https://dply.co/help/faq
 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## DugongGUI
 
 DugongGUI demo running on Dply servers. To test, just choose one of the versions below and click on the corresponding Dply button.
@@ -35,6 +37,8 @@ DugongGUI demo running on Dply servers. To test, just choose one of the versions
 - CentOS 7
 
 [![Dply](https://dply.co/b.svg)](https://dply.co/b/vVNyVlDA)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## DugongCMD:
 
