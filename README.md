@@ -28,7 +28,7 @@ DugongGUI demo running on Dply servers. To test, just choose one of the versions
 
 - CentOS 7
 
-[![Dply](https://dply.co/b.svg)](https://dply.co/b/GyHGaXtx)
+[![Dply](https://dply.co/b.svg)](https://dply.co/b/Y5KdYGhs)
 
 ## DugongCMD:
 
