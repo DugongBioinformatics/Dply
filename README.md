@@ -50,10 +50,6 @@ DugongCMD demo running on Dply servers. To test, just choose one of the versions
 
 [![Dply](https://dply.co/b.svg)](https://dply.co/b/v7OzjWr5)
 
-- CentOS 6
-
-[![Dply](https://dply.co/b.svg)](https://dply.co/b/5Z6wQ2yQ) 
-
 - CentOS 7
 
 [![Dply](https://dply.co/b.svg)](https://dply.co/b/GyHGaXtx)
