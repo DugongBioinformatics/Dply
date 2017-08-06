@@ -10,10 +10,11 @@
 
 ## DugongCMD:
 
+DugongCMD demo running on Dply servers. To test, just choose one of the versions below and click on the corresponding Dply button.
+
 ![Dply](https://raw.githubusercontent.com/DugongBioinformatics/Dply/master/.misc/Screenshot%20from%202017-08-06%2017-41-55.png)
 
 ![Dply](https://raw.githubusercontent.com/DugongBioinformatics/Dply/master/.misc/Screenshot%20from%202017-08-06%2017-41-41.png)
-
 
 - Ubuntu 16.04
 
