@@ -22,6 +22,14 @@ DugongGUI demo running on Dply servers. To test, just choose one of the versions
 
 [![Dply](https://dply.co/b.svg)](https://dply.co/b/mekdDIAk)
 
+- Ubuntu 17.04
+
+[![Dply](https://dply.co/b.svg)](https://dply.co/b/v7OzjWr5)
+
+- CentOS 7
+
+[![Dply](https://dply.co/b.svg)](https://dply.co/b/GyHGaXtx)
+
 ## DugongCMD:
 
 DugongCMD demo running on Dply servers. To test, just choose one of the versions below and click on the corresponding Dply button.
