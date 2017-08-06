@@ -1,6 +1,10 @@
 # DUGONG DEMO
 
-## DugongGUI XFCE4 (Ubuntu 16.04):
+## DugongGUI
+
+DugongGUI demo running on Dply servers. To test, just choose one of the versions below and click on the corresponding Dply button.
+
+- Ubuntu 16.04
 
 [![Dply](https://dply.co/b.svg)](https://dply.co/b/mekdDIAk)
 
