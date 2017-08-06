@@ -44,8 +44,8 @@ DugongCMD demo running on Dply servers. To test, just choose one of the versions
 
 - Debian 7
 
-[![Dply](https://dply.co/b.svg)](https://dply.co/b/ojgbiQMO) 
+[![Dply](https://dply.co/b.svg)](https://dply.co/b/7CsA7r3H)  
 
 - Debian 8
 
-[![Dply](https://dply.co/b.svg)](https://dply.co/b/tLUag3SO) 
+[![Dply](https://dply.co/b.svg)](https://dply.co/b/8qIoBLeH) 
