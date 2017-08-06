@@ -18,6 +18,12 @@ For more information on how to use this service and how to create and connect to
 
 DugongGUI demo running on Dply servers. To test, just choose one of the versions below and click on the corresponding Dply button.
 
+![Dply](https://raw.githubusercontent.com/DugongBioinformatics/Dply/master/.misc/Screenshot%20from%202017-08-06%2019-22-56.png)
+
+![Dply](https://raw.githubusercontent.com/DugongBioinformatics/Dply/master/.misc/Screenshot%20from%202017-08-06%2019-22-44.png)
+
+![Dply](https://raw.githubusercontent.com/DugongBioinformatics/Dply/master/.misc/Screenshot%20from%202017-08-06%2019-23-38.png)
+
 - Ubuntu 16.04
 
 [![Dply](https://dply.co/b.svg)](https://dply.co/b/mekdDIAk)
