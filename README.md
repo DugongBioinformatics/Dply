@@ -45,3 +45,9 @@ DugongCMD demo running on Dply servers. To test, just choose one of the versions
 - CentOS 7
 
 [![Dply](https://dply.co/b.svg)](https://dply.co/b/GyHGaXtx)
+
+# Comments:
+
+- The process of installing the docker service and Dugong deploy can take up to 5 minutes. I recommend that you wait for the installation process and use the command below to check if Dugong is already available:
+
+$ docker ps
