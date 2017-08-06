@@ -42,10 +42,10 @@ DugongCMD demo running on Dply servers. To test, just choose one of the versions
 
 [![Dply](https://dply.co/b.svg)](https://dply.co/b/v7OzjWr5) 
 
-- CentOS
+- CentOS 6
 
-[![Dply](https://dply.co/b.svg)](https://dply.co/b/7CsA7r3H)  
+[![Dply](https://dply.co/b.svg)](https://dply.co/b/aqLAzanh)
 
-- CentOS
+- CentOS 7
 
-[![Dply](https://dply.co/b.svg)](https://dply.co/b/8qIoBLeH) 
+[![Dply](https://dply.co/b.svg)](https://dply.co/b/HfeR62Dw)
